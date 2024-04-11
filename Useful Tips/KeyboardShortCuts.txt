@@ -16,3 +16,5 @@ alt click          = multi cursor
 alt shift up/down  = copy line
 
 * ! ? TODO   ---- Better Comments ----
+
+Upper right hand ... icon in the Source control panel, click inline view for a potentionally better UI.

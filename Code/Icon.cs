@@ -14,5 +14,7 @@ public partial class Icon : Sprite2D
 		float testNum = 42f + (float)delta;
 		GD.Print(testNum);
 		// Addition
+		// More addition
+		// New features 1 
 	}
 }
