@@ -1,0 +1,18 @@
+ctrl k + ctrl f    = format
+ctrl p             = Command pallete
+ctrl p + >         = run commands
+ctrl p + > + @     = Find code
+ctrl p + > + #     = Find file (??)
+ctrl shift .       = Find code
+ctrl g + Linenum   = got to line
+ctrl d             = highlight word
+ctrl d + ctrl d    = edit highlighted word (Does not edit across multiple files?)
+f2                 = rename (Edits multiple files)
+ctrl l             = select line
+ctrl /             = toggle comment
+ctrl `             = toggle terminal
+
+alt click          = multi cursor
+alt shift up/down  = copy line
+
+* ! ? TODO   ---- Better Comments ----
